@@ -121,7 +121,7 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/denzelsaraka"
     - label: "Hack The Box"
-      icon: "fal fa-cube"
+      icon: "fas fa-cube"
       url: "https://www.hackthebox.eu/profile/152530"
 # Site Footer
 footer:
