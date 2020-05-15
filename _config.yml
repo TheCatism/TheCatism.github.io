@@ -51,7 +51,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : "true" # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -118,9 +118,8 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/denzelsaraka"
-
 # Site Footer
 footer:
   links:
@@ -142,7 +141,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+    
 
 # Reading Files
 include:
