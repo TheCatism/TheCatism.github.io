@@ -117,9 +117,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Linkedin"
+    - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/denzelsaraka"
+    - label: "Hack The Box"
+      icon: "fal fa-cube"
+      url: "https://www.hackthebox.eu/profile/152530"
 # Site Footer
 footer:
   links:
@@ -281,6 +284,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
