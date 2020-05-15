@@ -51,8 +51,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : "true" # true, false (default)
-search_full_content      : "true" # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -97,11 +97,11 @@ author:
   avatar           : "/assets/images/tra_guy.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Offensive Security Wannabe"
   location         : "US"
-  email            :
+  email            : "TheCatism@protonmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "TheCatism@protonmail.com"
+      #url: ""
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
