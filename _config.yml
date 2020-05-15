@@ -52,7 +52,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : "true" # true, false (default)
-search_full_content      : # true, false (default)
+search_full_content      : "true" # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "TheCatism"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Pentester Wannabe"
+  avatar           : "/assets/images/tra_guy.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Offensive Security Wannabe"
   location         : "US"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "TheCatism@protonmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -141,6 +141,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/denzelsaraka"
     
 
 # Reading Files
