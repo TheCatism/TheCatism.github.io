@@ -5,6 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# About Me
+Hi and welcome to my blog. I am a cyber security enthusiast and I like to learn about vulnerabilities, malware, and programming. I'll mainly be posting about those topics and whatever else I'm working on at the moment like a hack the box machine or a CTF challenge.
 
-Hi and welcome to my blog. I am a cyber security enthusiast and I like learn about vulnerabilities, malware, and programing. I'll mainly be posting about those topics and whatever else I'm working on at the moment like a hack the box machine or a CTF.
+Feel free to follow me on Twitter or add me on LinkedIn.
