@@ -3,9 +3,6 @@
 title: "TryHackMe - Reversing ELF"  
 date: 2021-01-31  
 classes: wide 
-header:
- teaser: /assets/images/reversing_elf/6ed92562e36244519aee066a548811ff.png)
- teaser_home_page: true
 categories:
  - reverse engineering
  - infosec
