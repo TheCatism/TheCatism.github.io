@@ -2,7 +2,6 @@
 title: "About"
 permalink: /about/
 author_profile: true
-date: 2020-12-31
 ---
 
 # About Me
