@@ -11,8 +11,6 @@ tags:
  - ctf
 ---
 
-# TJCTF 2018 - Validator
-
 This challenge is from an old TJCTF competition. The file they gave us displays the message `Valid flag` if it recieves the correct flag.
 
 * * *
