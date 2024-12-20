@@ -12,8 +12,7 @@ tags:
  - ctf
 ---
 
-
-This challenge was found [here](https://github.com/seal9055/PWN_Zero2Hero/tree/main)
+This challenge was from seal9055's Zero2Hero Stack challenge series. The challenge can be found [here](https://github.com/seal9055/PWN_Zero2Hero/tree/main)
 
 * * *
 
