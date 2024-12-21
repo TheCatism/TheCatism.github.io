@@ -119,7 +119,7 @@ author:
       # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/denzelsaraka"
+      # url: "https://www.linkedin.com/in/denzelsaraka"
     - label: "Hack The Box"
       icon: "fas fa-cube"
       #url: "https://www.hackthebox.eu/profile/152530"
@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/denzelsaraka"
+      # url: "https://www.linkedin.com/in/denzelsaraka"
     
 
 # Reading Files

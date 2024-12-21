@@ -98,7 +98,7 @@ it's printf currently doesn't use a format specifier and looks like this  `print
 
 ## Solution
 
-We can make a script that loops 10 times reading whats on the stack at different offsets. We'll use the %p format specifer to read the addresses.
+We can make a script that loops 10 times reading what's on the stack at different offsets. We'll use the `%p` format specifer to read the addresses.
 
 ![solve_script.png](../assets/images/format_string_leak/e9df1d6ff8b98d66a3fc3394082c443d.png)
 

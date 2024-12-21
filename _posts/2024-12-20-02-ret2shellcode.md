@@ -123,7 +123,7 @@ The main gist of the code is that it's a program that lets you add in users, cha
 
 ## Vulnerability
 
-The first vulnerabilty is that the create user case (case 1) lets you create 6 users instead of 5 which is the max.
+The first vulnerabilty is that the create user case (case 1) lets you create 6 users instead of 5 which is more than the max.
 
 ![vuln1.png](../assets/images/ret2shellcode/8933637fcd478575f1efbccab1e7a66f.png)
 
